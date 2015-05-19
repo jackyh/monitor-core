@@ -79,3 +79,4 @@ Future versions of the Ganglia web interface may require a particular
 version of gmond or gmetad: please check the installation documentation
 within the web tarball for exact details.
 
+hcj: for test git stuff
