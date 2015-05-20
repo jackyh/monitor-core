@@ -888,7 +888,6 @@ The B<Ganglia Development Team>...
  Mason Katz 	        masonkatz 	Developer 	masonkatz at users.sourceforge.net 	
  Mike Howard 	        mhoward 	Developer 	mhoward at users.sourceforge.net 	
  Matt Massie            massie          Project Admin   massie at users.sourceforge.net
- Oliver Mössinger 	olivpass 	Developer 	olivpass at users.sourceforge.net 	
  Preston Smith 	        pmsmith 	Developer 	pmsmith at users.sourceforge.net 	
  Federico David Sacerdoti sacerdoti 	Developer 	sacerdoti at users.sourceforge.net 	
  Tim Cera 	        timcera 	Developer 	timcera at users.sourceforge.net 	
